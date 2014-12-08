@@ -1,0 +1,27 @@
+{
+  "name": "react-serve",
+  "version": "0.0.1",
+  "description": "Lib for build isomorphic react project",
+  "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fi11/react-serve.git"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "build",
+    "isomorphic"
+  ],
+  "bugs": {
+    "url": "https://github.com/fi11/react-serve/issues"
+  },
+  "homepage": "https://github.com/fi11/react-serve",
+  "author": "Pavel Silin",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {},
+  "peerDependencies": {
+    "react": "~0.11.1"
+  }
+}
